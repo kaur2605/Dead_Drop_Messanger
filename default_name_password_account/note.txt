@@ -1,0 +1,6 @@
+These files can be placed in the default path of the project, which then allows login with the account credentials:
+
+name
+password
+
+It should then be possible to retrieve the secret message that was stored in the remote dead drop previously.
